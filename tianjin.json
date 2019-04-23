@@ -1,9 +1,9 @@
 {
-  "update_url"      : "http://124.133.55.202:5700/apps/20181130/app-JiNan-release.apk",
+  "update_url"      : "http://124.133.55.202:5700/apps/20181130/app-TianJin-release.apk",
   "update_content"  : "你有新的版本需要更新",
   "update_ver_code" : 66,
   "update_ver_name" : "66.00",
   "ignore_able"     : false,
   "md5"             : "",
-  "mark"             : "济南"
+  "mark"             : "天津"
 }
